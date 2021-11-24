@@ -9,6 +9,7 @@
 
 #include <ServoTimer2.h>
 #include <EnableInterrupt.h>
+#include <Wire.h>
 
 #define THROTTLE_PIN  9
 #define STEERING_PIN 10
